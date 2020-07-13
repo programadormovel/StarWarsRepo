@@ -1,1 +1,6 @@
 /.project
+
+nome_modules/
+bower_components/
+
+**/*.css
